@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Do not mention GitHub or gh CLI
+# Do not mention Python
+
 import subprocess
 import json
 import sys
